@@ -1,0 +1,6 @@
+gemini_prompt.md
+_commits.json
+_temp/
+.DS_Store
+Thumbs.db
+*.local
